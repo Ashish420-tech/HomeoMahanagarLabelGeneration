@@ -1,0 +1,5 @@
+kivy
+pandas
+openpyxl
+rapidfuzz
+PyQt5

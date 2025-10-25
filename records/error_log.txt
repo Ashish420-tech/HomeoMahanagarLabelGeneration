@@ -1,0 +1,258 @@
+2025-10-21 14:16:05,751 - ERROR - Direct print failed: [WinError 2] The system cannot find the file specified
+2025-10-21 14:16:15,906 - ERROR - Direct print failed: [WinError 2] The system cannot find the file specified
+2025-10-21 14:24:10,105 - ERROR - Direct print failed: (31, 'ShellExecute', 'A device attached to the system is not functioning.')
+2025-10-21 14:42:33,859 - ERROR - Direct print failed: (31, 'ShellExecute', 'A device attached to the system is not functioning.')
+2025-10-21 15:34:02,283 - ERROR - Direct print failed: (31, 'ShellExecute', 'A device attached to the system is not functioning.')
+2025-10-21 15:34:06,950 - ERROR - Direct print failed: (31, 'ShellExecute', 'A device attached to the system is not functioning.')
+2025-10-21 15:36:06,479 - ERROR - Direct print failed: (31, 'ShellExecute', 'A device attached to the system is not functioning.')
+2025-10-21 15:36:11,103 - ERROR - Direct print failed: (31, 'ShellExecute', 'A device attached to the system is not functioning.')
+2025-10-21 15:49:31,737 - ERROR - Direct print failed: (31, 'ShellExecute', 'A device attached to the system is not functioning.')
+2025-10-21 19:02:30,501 - ERROR - Direct print failed: (31, 'ShellExecute', 'A device attached to the system is not functioning.')
+2025-10-21 19:21:44,728 - ERROR - Direct print failed: (31, 'ShellExecute', 'A device attached to the system is not functioning.')
+2025-10-21 19:26:28,731 - ERROR - Print failed: [Errno 13] Permission denied: 'records\\label.pdf'
+2025-10-21 19:26:34,273 - ERROR - Print failed: [Errno 13] Permission denied: 'records\\label.pdf'
+2025-10-21 19:26:40,474 - ERROR - Print failed: [Errno 13] Permission denied: 'records\\label.pdf'
+2025-10-21 19:26:44,720 - ERROR - Print failed: [Errno 13] Permission denied: 'records\\label.pdf'
+2025-10-21 19:27:14,384 - ERROR - Print failed: [Errno 13] Permission denied: 'records\\label.pdf'
+2025-10-21 19:27:19,096 - ERROR - Direct print failed: [Errno 13] Permission denied: 'records\\label.pdf'
+2025-10-21 19:29:07,250 - ERROR - Print failed: [Errno 13] Permission denied: 'records\\label.pdf'
+2025-10-21 19:46:51,853 - ERROR - Print failed: [Errno 13] Permission denied: 'records\\label.pdf'
+2025-10-23 14:52:05,556 - INFO - Remedies loaded successfully.
+2025-10-23 14:53:31,268 - INFO - Records buffered and saved.
+2025-10-23 14:53:31,272 - INFO - Autocomplete saved successfully.
+2025-10-23 14:53:31,406 - INFO - Label previewed for Lobelia Inflata
+2025-10-23 14:53:38,328 - INFO - Top offset changed to: 4
+2025-10-23 14:53:42,855 - INFO - Records buffered and saved.
+2025-10-23 14:53:42,859 - INFO - Autocomplete saved successfully.
+2025-10-23 14:53:42,938 - INFO - Label previewed for Lobelia Inflata
+2025-10-23 14:54:18,687 - INFO - New medicine added: PIPER
+2025-10-23 14:59:45,419 - INFO - Remedies loaded successfully.
+2025-10-23 15:00:04,448 - INFO - Records buffered and saved.
+2025-10-23 15:00:04,452 - INFO - Autocomplete saved successfully.
+2025-10-23 15:00:04,576 - INFO - Label previewed for Quassia Glandium Spiritus
+2025-10-23 15:01:02,198 - INFO - Remedies loaded successfully.
+2025-10-23 15:01:20,064 - INFO - Font size changed to: 9
+2025-10-23 15:01:22,371 - INFO - Records buffered and saved.
+2025-10-23 15:01:22,374 - INFO - Autocomplete saved successfully.
+2025-10-23 15:01:22,494 - INFO - Label previewed for Omithogalum Umbellatum
+2025-10-23 15:01:49,996 - INFO - Records buffered and saved.
+2025-10-23 15:01:49,999 - INFO - Autocomplete saved successfully.
+2025-10-23 15:01:50,062 - INFO - Label previewed for Omithogalum Umbellatum
+2025-10-23 15:04:26,633 - INFO - Records buffered and saved.
+2025-10-23 15:04:26,636 - INFO - Autocomplete saved successfully.
+2025-10-23 15:04:26,679 - ERROR - Direct print failed: (31, 'ShellExecute', 'A device attached to the system is not functioning.')
+2025-10-23 15:04:33,852 - INFO - Records buffered and saved.
+2025-10-23 15:04:33,856 - INFO - Autocomplete saved successfully.
+2025-10-23 15:04:33,882 - ERROR - Direct print failed: (31, 'ShellExecute', 'A device attached to the system is not functioning.')
+2025-10-23 15:04:50,550 - INFO - Records buffered and saved.
+2025-10-23 15:04:50,554 - INFO - Autocomplete saved successfully.
+2025-10-23 15:04:50,577 - ERROR - Direct print failed: (31, 'ShellExecute', 'A device attached to the system is not functioning.')
+2025-10-23 15:04:54,382 - INFO - Records buffered and saved.
+2025-10-23 15:04:54,386 - INFO - Autocomplete saved successfully.
+2025-10-23 15:04:54,442 - INFO - Label previewed for Omithogalum Umbellatum
+2025-10-23 15:06:05,531 - INFO - Records buffered and saved.
+2025-10-23 15:06:05,535 - INFO - Autocomplete saved successfully.
+2025-10-23 15:06:05,556 - ERROR - Direct print failed: (31, 'ShellExecute', 'A device attached to the system is not functioning.')
+2025-10-23 15:07:47,477 - INFO - Records buffered and saved.
+2025-10-23 15:07:47,480 - INFO - Autocomplete saved successfully.
+2025-10-23 15:07:47,506 - ERROR - Direct print failed: (31, 'ShellExecute', 'A device attached to the system is not functioning.')
+2025-10-23 15:09:47,306 - INFO - Remedies loaded successfully.
+2025-10-23 15:09:47,681 - INFO - Refreshed printer list: ['SNBC TVSE LP 46 NEO BPLE', 'Microsoft XPS Document Writer', 'Microsoft Print to PDF', 'L14150 Series(Network)', 'Fax', 'Canon G3000 series Printer XPS (Copy 1)', 'Canon G3000 series Printer XPS', 'Canon G3000 series Printer WS', 'Canon G3000 series Printer']
+2025-10-23 15:10:08,060 - INFO - Records buffered and saved.
+2025-10-23 15:10:08,064 - INFO - Autocomplete saved successfully.
+2025-10-23 15:10:08,188 - INFO - Label previewed for Acetanilidum
+2025-10-23 15:10:13,921 - INFO - Records buffered and saved.
+2025-10-23 15:10:13,926 - INFO - Autocomplete saved successfully.
+2025-10-23 15:10:13,948 - ERROR - Direct print failed: (31, 'ShellExecute', 'A device attached to the system is not functioning.')
+2025-10-23 15:10:26,712 - INFO - Records buffered and saved.
+2025-10-23 15:10:26,716 - INFO - Autocomplete saved successfully.
+2025-10-23 15:10:26,744 - ERROR - Direct print failed: (31, 'ShellExecute', 'A device attached to the system is not functioning.')
+2025-10-23 15:14:48,514 - INFO - Remedies loaded successfully.
+2025-10-23 15:14:48,801 - INFO - Refreshed printer list: ['SNBC TVSE LP 46 NEO BPLE', 'Microsoft XPS Document Writer', 'Microsoft Print to PDF', 'L14150 Series(Network)', 'Fax', 'Canon G3000 series Printer XPS (Copy 1)', 'Canon G3000 series Printer XPS', 'Canon G3000 series Printer WS', 'Canon G3000 series Printer']
+2025-10-23 15:14:56,796 - INFO - Refreshed printer list: ['SNBC TVSE LP 46 NEO BPLE', 'Microsoft XPS Document Writer', 'Microsoft Print to PDF', 'L14150 Series(Network)', 'Fax', 'Canon G3000 series Printer XPS (Copy 1)', 'Canon G3000 series Printer XPS', 'Canon G3000 series Printer WS', 'Canon G3000 series Printer']
+2025-10-23 15:14:57,614 - INFO - Refreshed printer list: ['SNBC TVSE LP 46 NEO BPLE', 'Microsoft XPS Document Writer', 'Microsoft Print to PDF', 'L14150 Series(Network)', 'Fax', 'Canon G3000 series Printer XPS (Copy 1)', 'Canon G3000 series Printer XPS', 'Canon G3000 series Printer WS', 'Canon G3000 series Printer']
+2025-10-23 15:14:57,795 - INFO - Refreshed printer list: ['SNBC TVSE LP 46 NEO BPLE', 'Microsoft XPS Document Writer', 'Microsoft Print to PDF', 'L14150 Series(Network)', 'Fax', 'Canon G3000 series Printer XPS (Copy 1)', 'Canon G3000 series Printer XPS', 'Canon G3000 series Printer WS', 'Canon G3000 series Printer']
+2025-10-23 15:14:57,950 - INFO - Refreshed printer list: ['SNBC TVSE LP 46 NEO BPLE', 'Microsoft XPS Document Writer', 'Microsoft Print to PDF', 'L14150 Series(Network)', 'Fax', 'Canon G3000 series Printer XPS (Copy 1)', 'Canon G3000 series Printer XPS', 'Canon G3000 series Printer WS', 'Canon G3000 series Printer']
+2025-10-23 15:15:01,842 - INFO - Records buffered and saved.
+2025-10-23 15:15:01,846 - INFO - Autocomplete saved successfully.
+2025-10-23 15:15:01,976 - INFO - Label previewed for Abies Nigra
+2025-10-23 15:15:14,290 - INFO - Records buffered and saved.
+2025-10-23 15:15:14,294 - INFO - Autocomplete saved successfully.
+2025-10-23 15:15:14,361 - INFO - Label previewed for Abies canadensis-Pinus Canadensis
+2025-10-23 15:15:22,251 - INFO - Font size changed to: 9
+2025-10-23 15:15:22,689 - INFO - Font size changed to: 10
+2025-10-23 15:15:23,984 - INFO - Records buffered and saved.
+2025-10-23 15:15:23,988 - INFO - Autocomplete saved successfully.
+2025-10-23 15:15:24,049 - INFO - Label previewed for Abies canadensis-Pinus Canadensis
+2025-10-23 15:15:30,198 - INFO - Refreshed printer list: ['SNBC TVSE LP 46 NEO BPLE', 'Microsoft XPS Document Writer', 'Microsoft Print to PDF', 'L14150 Series(Network)', 'Fax', 'Canon G3000 series Printer XPS (Copy 1)', 'Canon G3000 series Printer XPS', 'Canon G3000 series Printer WS', 'Canon G3000 series Printer']
+2025-10-23 15:15:34,177 - INFO - Refreshed printer list: ['SNBC TVSE LP 46 NEO BPLE', 'Microsoft XPS Document Writer', 'Microsoft Print to PDF', 'L14150 Series(Network)', 'Fax', 'Canon G3000 series Printer XPS (Copy 1)', 'Canon G3000 series Printer XPS', 'Canon G3000 series Printer WS', 'Canon G3000 series Printer']
+2025-10-23 15:15:34,278 - INFO - Records buffered and saved.
+2025-10-23 15:15:34,282 - INFO - Autocomplete saved successfully.
+2025-10-23 15:15:34,306 - ERROR - Direct print failed: (31, 'ShellExecute', 'A device attached to the system is not functioning.')
+2025-10-23 15:15:51,108 - INFO - Refreshed printer list: ['SNBC TVSE LP 46 NEO BPLE', 'Microsoft XPS Document Writer', 'Microsoft Print to PDF', 'L14150 Series(Network)', 'Fax', 'Canon G3000 series Printer XPS (Copy 1)', 'Canon G3000 series Printer XPS', 'Canon G3000 series Printer WS', 'Canon G3000 series Printer']
+2025-10-23 15:15:51,206 - INFO - Records buffered and saved.
+2025-10-23 15:15:51,210 - INFO - Autocomplete saved successfully.
+2025-10-23 15:15:51,236 - ERROR - Direct print failed: (31, 'ShellExecute', 'A device attached to the system is not functioning.')
+2025-10-23 15:16:32,885 - INFO - Records buffered and saved.
+2025-10-23 15:16:32,890 - INFO - Autocomplete saved successfully.
+2025-10-23 15:16:32,994 - INFO - Label previewed for Abies canadensis-Pinus Canadensis
+2025-10-23 15:16:38,575 - INFO - Refreshed printer list: ['SNBC TVSE LP 46 NEO BPLE', 'Microsoft XPS Document Writer', 'Microsoft Print to PDF', 'L14150 Series(Network)', 'Fax', 'Canon G3000 series Printer XPS (Copy 1)', 'Canon G3000 series Printer XPS', 'Canon G3000 series Printer WS', 'Canon G3000 series Printer']
+2025-10-23 15:16:38,751 - INFO - Records buffered and saved.
+2025-10-23 15:16:38,756 - INFO - Autocomplete saved successfully.
+2025-10-23 15:16:38,820 - INFO - Label sent to printer: SNBC TVSE LP 46 NEO BPLE
+2025-10-23 15:32:12,705 - INFO - Remedies loaded successfully.
+2025-10-23 15:32:13,008 - INFO - Refreshed printer list: ['SNBC TVSE LP 46 NEO BPLE', 'Microsoft XPS Document Writer', 'Microsoft Print to PDF', 'L14150 Series(Network)', 'Fax', 'Canon G3000 series Printer XPS (Copy 1)', 'Canon G3000 series Printer XPS', 'Canon G3000 series Printer WS', 'Canon G3000 series Printer']
+2025-10-23 15:32:42,058 - INFO - Records buffered and saved.
+2025-10-23 15:32:42,062 - INFO - Autocomplete saved successfully.
+2025-10-23 15:32:42,181 - INFO - Label previewed for Agricus Muscarius-Amanita
+2025-10-23 15:33:51,329 - INFO - Records buffered and saved.
+2025-10-23 15:33:51,333 - INFO - Autocomplete saved successfully.
+2025-10-23 15:33:51,399 - INFO - Label previewed for Agricus Muscarius-Amanita
+2025-10-23 15:33:56,962 - INFO - Refreshed printer list: ['SNBC TVSE LP 46 NEO BPLE', 'Microsoft XPS Document Writer', 'Microsoft Print to PDF', 'L14150 Series(Network)', 'Fax', 'Canon G3000 series Printer XPS (Copy 1)', 'Canon G3000 series Printer XPS', 'Canon G3000 series Printer WS', 'Canon G3000 series Printer']
+2025-10-23 15:33:57,065 - INFO - Records buffered and saved.
+2025-10-23 15:33:57,069 - INFO - Autocomplete saved successfully.
+2025-10-23 15:33:57,104 - INFO - Label sent to printer: SNBC TVSE LP 46 NEO BPLE
+2025-10-23 15:37:21,089 - INFO - Records buffered and saved.
+2025-10-23 15:37:21,093 - INFO - Autocomplete saved successfully.
+2025-10-23 15:37:21,162 - INFO - Label previewed for Agricus Muscarius-Amanita
+2025-10-23 15:37:47,130 - INFO - Records buffered and saved.
+2025-10-23 15:37:47,135 - INFO - Autocomplete saved successfully.
+2025-10-23 15:37:47,136 - ERROR - Print failed: [Errno 13] Permission denied: 'records\\label.pdf'
+2025-10-23 15:37:53,547 - INFO - Records buffered and saved.
+2025-10-23 15:37:53,552 - INFO - Autocomplete saved successfully.
+2025-10-23 15:37:53,619 - INFO - Label previewed for Agricus Muscarius-Amanita
+2025-10-23 15:38:13,241 - INFO - Font size changed to: 7
+2025-10-23 15:38:15,657 - INFO - Records buffered and saved.
+2025-10-23 15:38:15,671 - INFO - Autocomplete saved successfully.
+2025-10-23 15:38:15,734 - INFO - Label previewed for Agricus Muscarius-Amanita
+2025-10-23 15:38:45,080 - INFO - Refreshed printer list: ['SNBC TVSE LP 46 NEO BPLE', 'Microsoft XPS Document Writer', 'Microsoft Print to PDF', 'L14150 Series(Network)', 'Fax', 'Canon G3000 series Printer XPS (Copy 1)', 'Canon G3000 series Printer XPS', 'Canon G3000 series Printer WS', 'Canon G3000 series Printer']
+2025-10-23 15:38:54,520 - INFO - Refreshed printer list: ['SNBC TVSE LP 46 NEO BPLE', 'Microsoft XPS Document Writer', 'Microsoft Print to PDF', 'L14150 Series(Network)', 'Fax', 'Canon G3000 series Printer XPS (Copy 1)', 'Canon G3000 series Printer XPS', 'Canon G3000 series Printer WS', 'Canon G3000 series Printer']
+2025-10-23 15:38:54,623 - INFO - Records buffered and saved.
+2025-10-23 15:38:54,637 - INFO - Autocomplete saved successfully.
+2025-10-23 15:38:54,668 - INFO - Label sent to printer: SNBC TVSE LP 46 NEO BPLE
+2025-10-23 15:48:31,527 - INFO - Remedies loaded successfully.
+2025-10-23 15:48:31,883 - INFO - Refreshed printer list: ['SNBC TVSE LP 46 NEO BPLE', 'Microsoft XPS Document Writer', 'Microsoft Print to PDF', 'L14150 Series(Network)', 'Fax', 'Canon G3000 series Printer XPS (Copy 1)', 'Canon G3000 series Printer XPS', 'Canon G3000 series Printer WS', 'Canon G3000 series Printer']
+2025-10-23 15:49:17,939 - INFO - Records buffered and saved.
+2025-10-23 15:49:17,943 - INFO - Autocomplete saved successfully.
+2025-10-23 15:49:18,063 - INFO - Label previewed for Belladonna
+2025-10-23 15:49:22,617 - INFO - Refreshed printer list: ['SNBC TVSE LP 46 NEO BPLE', 'Microsoft XPS Document Writer', 'Microsoft Print to PDF', 'L14150 Series(Network)', 'Fax', 'Canon G3000 series Printer XPS (Copy 1)', 'Canon G3000 series Printer XPS', 'Canon G3000 series Printer WS', 'Canon G3000 series Printer']
+2025-10-23 15:49:22,720 - INFO - Records buffered and saved.
+2025-10-23 15:49:22,735 - INFO - Autocomplete saved successfully.
+2025-10-23 15:49:22,777 - INFO - Label sent to printer: SNBC TVSE LP 46 NEO BPLE
+2025-10-23 15:49:44,449 - INFO - Font size changed to: 9
+2025-10-23 15:50:22,244 - INFO - Remedies loaded successfully.
+2025-10-23 15:50:22,582 - INFO - Refreshed printer list: ['SNBC TVSE LP 46 NEO BPLE', 'Microsoft XPS Document Writer', 'Microsoft Print to PDF', 'L14150 Series(Network)', 'Fax', 'Canon G3000 series Printer XPS (Copy 1)', 'Canon G3000 series Printer XPS', 'Canon G3000 series Printer WS', 'Canon G3000 series Printer']
+2025-10-23 15:56:19,388 - INFO - Remedies loaded successfully.
+2025-10-23 15:56:19,752 - INFO - Refreshed printer list: ['SNBC TVSE LP 46 NEO BPLE', 'Microsoft XPS Document Writer', 'Microsoft Print to PDF', 'L14150 Series(Network)', 'Fax', 'Canon G3000 series Printer XPS (Copy 1)', 'Canon G3000 series Printer XPS', 'Canon G3000 series Printer WS', 'Canon G3000 series Printer']
+2025-10-24 10:03:33,078 - INFO - Remedies loaded successfully.
+2025-10-24 10:03:33,089 - INFO - Remedies loaded successfully.
+2025-10-24 10:03:34,202 - INFO - Refreshed printer list: ['SNBC TVSE LP 46 NEO BPLE', 'Microsoft XPS Document Writer', 'Microsoft Print to PDF', 'L14150 Series(Network)', 'Fax', 'Canon G3000 series Printer XPS (Copy 1)', 'Canon G3000 series Printer XPS', 'Canon G3000 series Printer WS', 'Canon G3000 series Printer']
+2025-10-24 10:03:34,203 - INFO - Refreshed printer list: ['SNBC TVSE LP 46 NEO BPLE', 'Microsoft XPS Document Writer', 'Microsoft Print to PDF', 'L14150 Series(Network)', 'Fax', 'Canon G3000 series Printer XPS (Copy 1)', 'Canon G3000 series Printer XPS', 'Canon G3000 series Printer WS', 'Canon G3000 series Printer']
+2025-10-24 10:04:20,222 - INFO - Font size changed to: 9
+2025-10-24 10:04:53,365 - INFO - Records buffered and saved.
+2025-10-24 10:04:53,371 - INFO - Autocomplete saved successfully.
+2025-10-24 10:04:53,564 - INFO - Label previewed for Palladium
+2025-10-24 10:05:00,075 - INFO - Refreshed printer list: ['SNBC TVSE LP 46 NEO BPLE', 'Microsoft XPS Document Writer', 'Microsoft Print to PDF', 'L14150 Series(Network)', 'Fax', 'Canon G3000 series Printer XPS (Copy 1)', 'Canon G3000 series Printer XPS', 'Canon G3000 series Printer WS', 'Canon G3000 series Printer']
+2025-10-24 10:05:00,350 - INFO - Records buffered and saved.
+2025-10-24 10:05:00,359 - INFO - Autocomplete saved successfully.
+2025-10-24 10:05:00,420 - ERROR - Direct print failed: (31, 'ShellExecute', 'A device attached to the system is not functioning.')
+2025-10-24 10:05:10,038 - INFO - Refreshed printer list: ['SNBC TVSE LP 46 NEO BPLE', 'Microsoft XPS Document Writer', 'Microsoft Print to PDF', 'L14150 Series(Network)', 'Fax', 'Canon G3000 series Printer XPS (Copy 1)', 'Canon G3000 series Printer XPS', 'Canon G3000 series Printer WS', 'Canon G3000 series Printer']
+2025-10-24 10:05:11,419 - INFO - Refreshed printer list: ['SNBC TVSE LP 46 NEO BPLE', 'Microsoft XPS Document Writer', 'Microsoft Print to PDF', 'L14150 Series(Network)', 'Fax', 'Canon G3000 series Printer XPS (Copy 1)', 'Canon G3000 series Printer XPS', 'Canon G3000 series Printer WS', 'Canon G3000 series Printer']
+2025-10-24 10:05:11,601 - INFO - Refreshed printer list: ['SNBC TVSE LP 46 NEO BPLE', 'Microsoft XPS Document Writer', 'Microsoft Print to PDF', 'L14150 Series(Network)', 'Fax', 'Canon G3000 series Printer XPS (Copy 1)', 'Canon G3000 series Printer XPS', 'Canon G3000 series Printer WS', 'Canon G3000 series Printer']
+2025-10-24 10:05:11,795 - INFO - Refreshed printer list: ['SNBC TVSE LP 46 NEO BPLE', 'Microsoft XPS Document Writer', 'Microsoft Print to PDF', 'L14150 Series(Network)', 'Fax', 'Canon G3000 series Printer XPS (Copy 1)', 'Canon G3000 series Printer XPS', 'Canon G3000 series Printer WS', 'Canon G3000 series Printer']
+2025-10-24 12:42:31,260 - INFO - Remedies loaded successfully.
+2025-10-24 12:42:41,549 - INFO - Remedies loaded successfully.
+2025-10-24 12:50:57,060 - INFO - Remedies loaded successfully.
+2025-10-24 12:54:28,293 - INFO - Remedies loaded successfully.
+2025-10-24 12:57:23,601 - INFO - Remedies loaded successfully.
+2025-10-24 12:57:23,959 - INFO - Refreshed printer list: ['SNBC TVSE LP 46 NEO BPLE', 'Microsoft XPS Document Writer', 'Microsoft Print to PDF', 'L14150 Series(Network)', 'Fax', 'Canon G3000 series Printer XPS (Copy 1)', 'Canon G3000 series Printer XPS', 'Canon G3000 series Printer WS', 'Canon G3000 series Printer']
+2025-10-24 12:59:23,382 - INFO - Remedies loaded successfully.
+2025-10-24 12:59:23,707 - INFO - Refreshed printer list: ['SNBC TVSE LP 46 NEO BPLE', 'Microsoft XPS Document Writer', 'Microsoft Print to PDF', 'L14150 Series(Network)', 'Fax', 'Canon G3000 series Printer XPS (Copy 1)', 'Canon G3000 series Printer XPS', 'Canon G3000 series Printer WS', 'Canon G3000 series Printer']
+2025-10-24 12:59:53,277 - INFO - Remedies loaded successfully.
+2025-10-24 12:59:53,596 - INFO - Refreshed printer list: ['SNBC TVSE LP 46 NEO BPLE', 'Microsoft XPS Document Writer', 'Microsoft Print to PDF', 'L14150 Series(Network)', 'Fax', 'Canon G3000 series Printer XPS (Copy 1)', 'Canon G3000 series Printer XPS', 'Canon G3000 series Printer WS', 'Canon G3000 series Printer']
+2025-10-24 12:59:57,049 - INFO - Font size changed to: 9
+2025-10-24 13:00:08,705 - INFO - Records buffered and saved.
+2025-10-24 13:00:08,708 - INFO - Autocomplete saved successfully.
+2025-10-24 13:00:08,811 - INFO - Label previewed for Bryonia
+2025-10-24 13:00:20,059 - INFO - Refreshed printer list: ['SNBC TVSE LP 46 NEO BPLE', 'Microsoft XPS Document Writer', 'Microsoft Print to PDF', 'L14150 Series(Network)', 'Fax', 'Canon G3000 series Printer XPS (Copy 1)', 'Canon G3000 series Printer XPS', 'Canon G3000 series Printer WS', 'Canon G3000 series Printer']
+2025-10-24 13:00:20,158 - INFO - Records buffered and saved.
+2025-10-24 13:00:20,161 - INFO - Autocomplete saved successfully.
+2025-10-24 13:00:20,184 - ERROR - Direct print failed: (31, 'ShellExecute', 'A device attached to the system is not functioning.')
+2025-10-24 13:35:09,250 - INFO - Remedies loaded successfully.
+2025-10-24 13:35:09,658 - INFO - Refreshed printer list: ['SNBC TVSE LP 46 NEO BPLE', 'Microsoft XPS Document Writer', 'Microsoft Print to PDF', 'L14150 Series(Network)', 'Fax', 'Canon G3000 series Printer XPS (Copy 1)', 'Canon G3000 series Printer XPS', 'Canon G3000 series Printer WS', 'Canon G3000 series Printer']
+2025-10-24 13:37:24,960 - INFO - Remedies loaded successfully.
+2025-10-24 13:37:25,401 - INFO - Refreshed printer list: ['SNBC TVSE LP 46 NEO BPLE', 'Microsoft XPS Document Writer', 'Microsoft Print to PDF', 'L14150 Series(Network)', 'Fax', 'Canon G3000 series Printer XPS (Copy 1)', 'Canon G3000 series Printer XPS', 'Canon G3000 series Printer WS', 'Canon G3000 series Printer']
+2025-10-24 13:38:02,894 - INFO - Remedies loaded successfully.
+2025-10-24 13:38:03,299 - INFO - Refreshed printer list: ['SNBC TVSE LP 46 NEO BPLE', 'Microsoft XPS Document Writer', 'Microsoft Print to PDF', 'L14150 Series(Network)', 'Fax', 'Canon G3000 series Printer XPS (Copy 1)', 'Canon G3000 series Printer XPS', 'Canon G3000 series Printer WS', 'Canon G3000 series Printer']
+2025-10-24 13:38:21,751 - INFO - Remedies loaded successfully.
+2025-10-24 13:38:22,079 - INFO - Refreshed printer list: ['SNBC TVSE LP 46 NEO BPLE', 'Microsoft XPS Document Writer', 'Microsoft Print to PDF', 'L14150 Series(Network)', 'Fax', 'Canon G3000 series Printer XPS (Copy 1)', 'Canon G3000 series Printer XPS', 'Canon G3000 series Printer WS', 'Canon G3000 series Printer']
+2025-10-24 13:41:08,711 - INFO - Remedies loaded successfully.
+2025-10-24 13:41:09,371 - INFO - Refreshed printer list: ['SNBC TVSE LP 46 NEO BPLE', 'Microsoft XPS Document Writer', 'Microsoft Print to PDF', 'L14150 Series(Network)', 'Fax', 'Canon G3000 series Printer XPS (Copy 1)', 'Canon G3000 series Printer XPS', 'Canon G3000 series Printer WS', 'Canon G3000 series Printer']
+2025-10-24 13:53:36,369 - INFO - Font size changed to: 9
+2025-10-24 13:53:36,856 - INFO - Font size changed to: 10
+2025-10-24 13:53:37,749 - INFO - Records buffered and saved.
+2025-10-24 13:53:37,753 - INFO - Autocomplete saved successfully.
+2025-10-24 13:53:37,924 - INFO - Label previewed for Abies canadensis-Pinus Canadensis
+2025-10-24 13:54:18,438 - INFO - Remedies loaded successfully.
+2025-10-24 13:54:18,810 - INFO - Refreshed printer list: ['SNBC TVSE LP 46 NEO BPLE', 'Microsoft XPS Document Writer', 'Microsoft Print to PDF', 'L14150 Series(Network)', 'Fax', 'Canon G3000 series Printer XPS (Copy 1)', 'Canon G3000 series Printer XPS', 'Canon G3000 series Printer WS', 'Canon G3000 series Printer']
+2025-10-24 14:04:00,466 - INFO - Remedies loaded successfully.
+2025-10-24 14:04:00,801 - INFO - Refreshed printer list: ['SNBC TVSE LP 46 NEO BPLE', 'Microsoft XPS Document Writer', 'Microsoft Print to PDF', 'L14150 Series(Network)', 'Fax', 'Canon G3000 series Printer XPS (Copy 1)', 'Canon G3000 series Printer XPS', 'Canon G3000 series Printer WS', 'Canon G3000 series Printer']
+2025-10-24 14:05:21,526 - INFO - Remedies loaded successfully.
+2025-10-24 14:05:21,823 - INFO - Refreshed printer list: ['SNBC TVSE LP 46 NEO BPLE', 'Microsoft XPS Document Writer', 'Microsoft Print to PDF', 'L14150 Series(Network)', 'Fax', 'Canon G3000 series Printer XPS (Copy 1)', 'Canon G3000 series Printer XPS', 'Canon G3000 series Printer WS', 'Canon G3000 series Printer']
+2025-10-24 14:05:40,722 - INFO - New medicine added: june / capil
+2025-10-24 14:06:04,485 - INFO - Records buffered and saved.
+2025-10-24 14:06:04,489 - INFO - Autocomplete saved successfully.
+2025-10-24 14:06:04,599 - INFO - Label previewed for june
+2025-10-24 14:06:08,258 - INFO - Records buffered and saved.
+2025-10-24 14:06:08,262 - INFO - Autocomplete saved successfully.
+2025-10-24 14:06:08,374 - INFO - Label previewed for june
+2025-10-24 14:06:11,485 - INFO - Font size changed to: 9
+2025-10-24 14:06:11,887 - INFO - Font size changed to: 10
+2025-10-24 14:06:12,563 - INFO - Records buffered and saved.
+2025-10-24 14:06:12,566 - INFO - Autocomplete saved successfully.
+2025-10-24 14:06:12,629 - INFO - Label previewed for june
+2025-10-24 14:06:33,612 - INFO - Remedies loaded successfully.
+2025-10-24 14:06:34,051 - INFO - Refreshed printer list: ['SNBC TVSE LP 46 NEO BPLE', 'Microsoft XPS Document Writer', 'Microsoft Print to PDF', 'L14150 Series(Network)', 'Fax', 'Canon G3000 series Printer XPS (Copy 1)', 'Canon G3000 series Printer XPS', 'Canon G3000 series Printer WS', 'Canon G3000 series Printer']
+2025-10-24 14:12:26,758 - INFO - Remedies loaded successfully.
+2025-10-24 14:12:27,082 - INFO - Refreshed printer list: ['SNBC TVSE LP 46 NEO BPLE', 'Microsoft XPS Document Writer', 'Microsoft Print to PDF', 'L14150 Series(Network)', 'Fax', 'Canon G3000 series Printer XPS (Copy 1)', 'Canon G3000 series Printer XPS', 'Canon G3000 series Printer WS', 'Canon G3000 series Printer']
+2025-10-24 17:15:57,001 - INFO - Remedies loaded successfully.
+2025-10-24 17:15:57,306 - INFO - Refreshed printer list: ['SNBC TVSE LP 46 NEO BPLE', 'Microsoft XPS Document Writer', 'Microsoft Print to PDF', 'L14150 Series(Network)', 'Fax', 'Canon G3000 series Printer XPS (Copy 1)', 'Canon G3000 series Printer XPS', 'Canon G3000 series Printer WS', 'Canon G3000 series Printer']
+2025-10-24 17:16:15,567 - INFO - Font size changed to: 9
+2025-10-24 17:16:16,397 - INFO - Font size changed to: 10
+2025-10-24 17:16:18,653 - INFO - Records buffered and saved.
+2025-10-24 17:16:18,657 - INFO - Autocomplete saved successfully.
+2025-10-24 17:16:18,782 - INFO - Label previewed for Chaparro-Amargoso
+2025-10-25 08:25:14,268 - INFO - Remedies loaded successfully.
+2025-10-25 08:25:14,657 - INFO - Refreshed printer list: ['SNBC TVSE LP 46 NEO BPLE', 'Microsoft XPS Document Writer', 'Microsoft Print to PDF', 'L14150 Series(Network)', 'Fax', 'Canon G3000 series Printer XPS (Copy 1)', 'Canon G3000 series Printer XPS', 'Canon G3000 series Printer WS', 'Canon G3000 series Printer']
+2025-10-25 08:25:55,334 - INFO - New medicine added: A / DD
+2025-10-25 08:26:18,750 - INFO - Records buffered and saved.
+2025-10-25 08:26:18,754 - INFO - Autocomplete saved successfully.
+2025-10-25 08:26:18,874 - INFO - Label previewed for A
+2025-10-25 08:26:55,535 - INFO - Records buffered and saved.
+2025-10-25 08:26:55,539 - INFO - Autocomplete saved successfully.
+2025-10-25 08:26:55,608 - INFO - Label previewed for A
+2025-10-25 08:27:00,961 - INFO - Records buffered and saved.
+2025-10-25 08:27:00,965 - INFO - Autocomplete saved successfully.
+2025-10-25 08:27:01,029 - INFO - Label previewed for Yucca Filamentosa
+2025-10-25 08:27:05,672 - INFO - Font size changed to: 9
+2025-10-25 08:27:06,114 - INFO - Font size changed to: 10
+2025-10-25 08:27:07,089 - INFO - Records buffered and saved.
+2025-10-25 08:27:07,093 - INFO - Autocomplete saved successfully.
+2025-10-25 08:27:07,153 - INFO - Label previewed for Yucca Filamentosa
+2025-10-25 08:27:30,218 - INFO - Records buffered and saved.
+2025-10-25 08:27:30,222 - INFO - Autocomplete saved successfully.
+2025-10-25 08:27:30,284 - INFO - Label previewed for 1 Yucca Filamentosa
+2025-10-25 08:28:10,773 - INFO - Remedies loaded successfully.
+2025-10-25 08:28:11,100 - INFO - Refreshed printer list: ['SNBC TVSE LP 46 NEO BPLE', 'Microsoft XPS Document Writer', 'Microsoft Print to PDF', 'L14150 Series(Network)', 'Fax', 'Canon G3000 series Printer XPS (Copy 1)', 'Canon G3000 series Printer XPS', 'Canon G3000 series Printer WS', 'Canon G3000 series Printer']
+2025-10-25 08:28:33,345 - INFO - Remedies loaded successfully.
+2025-10-25 08:28:33,661 - INFO - Refreshed printer list: ['SNBC TVSE LP 46 NEO BPLE', 'Microsoft XPS Document Writer', 'Microsoft Print to PDF', 'L14150 Series(Network)', 'Fax', 'Canon G3000 series Printer XPS (Copy 1)', 'Canon G3000 series Printer XPS', 'Canon G3000 series Printer WS', 'Canon G3000 series Printer']
+2025-10-25 08:28:45,780 - INFO - Remedies loaded successfully.
+2025-10-25 08:28:46,110 - INFO - Refreshed printer list: ['SNBC TVSE LP 46 NEO BPLE', 'Microsoft XPS Document Writer', 'Microsoft Print to PDF', 'L14150 Series(Network)', 'Fax', 'Canon G3000 series Printer XPS (Copy 1)', 'Canon G3000 series Printer XPS', 'Canon G3000 series Printer WS', 'Canon G3000 series Printer']
+2025-10-25 08:29:09,745 - INFO - Remedies loaded successfully.
+2025-10-25 08:29:10,075 - INFO - Refreshed printer list: ['SNBC TVSE LP 46 NEO BPLE', 'Microsoft XPS Document Writer', 'Microsoft Print to PDF', 'L14150 Series(Network)', 'Fax', 'Canon G3000 series Printer XPS (Copy 1)', 'Canon G3000 series Printer XPS', 'Canon G3000 series Printer WS', 'Canon G3000 series Printer']
+2025-10-25 08:29:35,459 - INFO - Font size changed to: 9
+2025-10-25 08:29:36,583 - INFO - Records buffered and saved.
+2025-10-25 08:29:36,588 - INFO - Autocomplete saved successfully.
+2025-10-25 08:29:36,708 - INFO - Label previewed for 1. Belladonna
+2025-10-25 08:33:02,761 - INFO - Remedies loaded successfully.
+2025-10-25 08:33:03,125 - INFO - Refreshed printer list: ['SNBC TVSE LP 46 NEO BPLE', 'Microsoft XPS Document Writer', 'Microsoft Print to PDF', 'L14150 Series(Network)', 'Fax', 'Canon G3000 series Printer XPS (Copy 1)', 'Canon G3000 series Printer XPS', 'Canon G3000 series Printer WS', 'Canon G3000 series Printer']

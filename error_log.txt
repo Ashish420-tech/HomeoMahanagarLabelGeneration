@@ -1,0 +1,2 @@
+2025-10-11 13:38:15,092 - ERROR - Error in print_label: (31, 'ShellExecute', 'A device attached to the system is not functioning.')
+2025-10-11 13:42:46,445 - ERROR - Error in print_label: (31, 'ShellExecute', 'A device attached to the system is not functioning.')
